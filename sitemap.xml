@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my_blog/posts/</loc>
+    <loc>https://Hyz0831.github.io/posts/</loc>
     <lastmod>2025-10-27T23:12:09+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my_blog/</loc>
+    <loc>https://Hyz0831.github.io/</loc>
     <lastmod>2025-10-27T23:12:09+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my_blog/posts/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://Hyz0831.github.io/posts/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2025-10-27T23:12:09+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my_blog/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://Hyz0831.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2025-10-27T23:11:51+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my_blog/posts/test/</loc>
+    <loc>https://Hyz0831.github.io/posts/test/</loc>
     <lastmod>2025-10-27T22:21:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my_blog/categories/</loc>
+    <loc>https://Hyz0831.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/my_blog/tags/</loc>
+    <loc>https://Hyz0831.github.io/tags/</loc>
   </url>
 </urlset>
