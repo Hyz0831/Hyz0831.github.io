@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我的博客</title>
+    <link>https://Hyz0831.github.io/</link>
+    <description>Recent content on 我的博客</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Oct 2025 23:12:09 +0800</lastBuildDate>
+    <atom:link href="https://Hyz0831.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第三篇文章</title>
+      <link>https://Hyz0831.github.io/posts/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Mon, 27 Oct 2025 23:12:09 +0800</pubDate>
+      <guid>https://Hyz0831.github.io/posts/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>第二篇文章</title>
+      <link>https://Hyz0831.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Mon, 27 Oct 2025 23:11:51 +0800</pubDate>
+      <guid>https://Hyz0831.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://Hyz0831.github.io/posts/test/</link>
+      <pubDate>Mon, 27 Oct 2025 22:21:32 +0800</pubDate>
+      <guid>https://Hyz0831.github.io/posts/test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
